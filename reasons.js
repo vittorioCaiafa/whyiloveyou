@@ -13,7 +13,11 @@ const razones = [
     "La forma en que me entiende mejor que nadie",
     "Su capacidad de hacer que cada momento sea especial",
     "La forma en que me hace querer ser mejor persona",
-    "Su amor incondicional y sincero"
+    "Su amor incondicional y sincero",
+    "Porque me haces sentir la persona mas feliz del mundo",
+    "Por tu pelo hermoso y suave",
+    "Por tu forma de ser",
+    "Por tu sonrisa que me llena de vida"
 ];
 
 export default razones; 
