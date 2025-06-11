@@ -12,18 +12,21 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1400px;
     margin: 0 auto;
 }
 
 .title {
     font-family: 'Dancing Script', cursive;
-    font-size: 4rem;
+    font-size: 5rem;
     text-align: center;
     color: #FF69B4; /* Dark pink color for title */
     margin-bottom: 3rem;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     animation: fadeIn 1.5s ease-in;
+    width: 100%;
+    padding: 0 2rem;
+    letter-spacing: 2px;
 }
 
 .reasons-container {
@@ -111,7 +114,8 @@ body {
 
 @media (max-width: 768px) {
     .title {
-        font-size: 3rem;
+        font-size: 3.5rem;
+        padding: 0 1rem;
     }
     
     .reasons-container {
