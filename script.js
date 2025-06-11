@@ -1,4 +1,4 @@
-import razones from './reasons.js';
+import razones from '/whyiloveyou/reasons.js';
 
 const reasonsContainer = document.getElementById('reasonsContainer');
 const searchInput = document.getElementById('searchInput');
